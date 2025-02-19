@@ -1,0 +1,29 @@
+_repo: Mikko-sedan-kesasiirtola_75374
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lajula, Osmo
+    alias: Raivio, J. P.
+    birthdate: 1874
+    deathdate: 1935
+    gutenberg_agent_id: '8623'
+    url: http://www.gutenberg.org/2009/agents/8623
+    wikipedia: https://fi.wikipedia.org/wiki/Osmo_Lajula
+description: ''
+gutenberg_issued: '2025-02-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75374'
+language: fi
+pgterms:marc905: 20250212231406raivio
+pgterms:marc906: '1919'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aHelsinki :$bEdistysseurojen Kustannus Oy, $c1919.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Mikko-sedän kesäsiirtola
+url: http://www.gutenberg.org/ebooks/75374
